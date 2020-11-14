@@ -40,6 +40,16 @@ text-align: center;
   margin-top: 50px;
 }
 
+a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+a:link    { color: goldenrod;}
+a:visited { color: blueviolet;}
+a:hover   { color: pink;}
+a:active  { color:steelblue;}
+
   .textContainer {
   float: left;
   width: 350px;
