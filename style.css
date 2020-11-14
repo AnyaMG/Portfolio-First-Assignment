@@ -1,0 +1,76 @@
+body {
+  background-color: gainsboro
+  }
+
+  p, ul {
+    color: darkseagreen
+  }
+
+  p, ul, ol {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+  }
+
+  h1 {
+    color: darkseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px
+  }
+
+  .headerContainer {
+  background-color: gainsboro
+}
+
+
+  h2, h3, h4 { 
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px
+  }
+
+  h1, h2, h3, h4 {
+text-align: center;
+  }
+
+
+  hr {
+  height: 4px;
+  width: 500px;
+  background-color: gainsboro;
+  margin-top: 50px;
+}
+
+  .textContainer {
+  float: left;
+  width: 350px;
+  height: 400px;
+  margin-left: 20px;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gainsboro;
+}
+
+.imgContainer {
+float: left;
+width: 300px;
+height: 400px;
+margin-bottom: 30px;
+}
+
+.pageContainer {
+  float: left;
+  width: 700px;
+  padding: 30px;
+  background-color: white;
+}
+
+.footerContainer {
+  background-color: gainsboro;
+  text-align: left;
+}
+
+.wrapper {
+  margin: auto;
+  width: 500px;
+}
